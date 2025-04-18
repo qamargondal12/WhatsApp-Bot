@@ -1,0 +1,9 @@
+2025/04/10-20:25:54.311 19bb0 Reusing MANIFEST /Users/anaamrasool/Workspace/n8n/whatsapp_bot/tokens/ai-agent-session/Default/Local Storage/leveldb/MANIFEST-000001
+2025/04/10-20:25:54.312 19bb0 Recovering log #3
+2025/04/10-20:25:54.313 19bb0 Reusing old log /Users/anaamrasool/Workspace/n8n/whatsapp_bot/tokens/ai-agent-session/Default/Local Storage/leveldb/000003.log 
+2025/04/10-20:26:54.316 19bb2 Level-0 table #5: started
+2025/04/10-20:26:54.321 19bb2 Level-0 table #5: 18116 bytes OK
+2025/04/10-20:26:54.323 19bb2 Delete type=0 #3
+2025/04/10-23:50:51.790 19bb2 Level-0 table #7: started
+2025/04/10-23:50:51.799 19bb2 Level-0 table #7: 13615 bytes OK
+2025/04/10-23:50:51.800 19bb2 Delete type=0 #4
