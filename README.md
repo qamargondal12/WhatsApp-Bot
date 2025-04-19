@@ -80,7 +80,15 @@ Set up a test function to simulate interactions with your agent.
 
 ---
 
-### 9️⃣ Test Your Workflow
+---
+
+### 9️⃣ Setup Openrouter account
+
+Set up your api key. And add your api key into your n8n credentials.
+
+---
+
+### 🔟 Test Your Workflow
 
 1. **Enable workflow testing** in n8n.
 2. Run your bot with:
