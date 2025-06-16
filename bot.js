@@ -20,7 +20,7 @@ async function processMessage(client, message, isSimulatedSelf = false) {
     try {
       // Forward the message to your n8n webhook endpoint.
       // (Make sure n8n is running at http://localhost:5678 with a workflow listening at /webhook/whatsapp)
-      const response = await axios.post('http://localhost:5678/webhook-test/webhook/whatsapp', {
+const response = await axios.post(process.env.N8N_WEBHOOK_URL, {
         body: message.body,
         from: message.from,
       });
